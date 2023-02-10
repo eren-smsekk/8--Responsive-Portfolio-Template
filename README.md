@@ -1,1 +1,2 @@
-# 8--Responsive-Portfolio-Template
+# Proje 8 
+Responsive Portfolio Template
